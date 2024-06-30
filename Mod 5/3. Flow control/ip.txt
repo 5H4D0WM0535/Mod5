@@ -1,0 +1,107 @@
+# Network Report
+
+This document details the configuration of various network devices and their respective IP addresses.
+
+## Summary
+
+Our network consists of multiple segments including routers, switches, access points, servers, workstations, and printers. Each device has been assigned a unique IP address for identification and management. Maintaining accurate records of these IP addresses is crucial for network management.
+
+## Routers Configuration
+
+Routers are essential for directing traffic across our network. The IP addresses for the routers are:
+Router 1 is configured with IP address 172.16.0.1. This is the gateway for the main network segment. It handles most of the outbound traffic and provides a secure connection to the internet.
+
+Router 2 uses IP address 10.0.0.2 to manage the second floor network. This router is equipped with advanced QoS settings to prioritize critical traffic.
+
+Router 3 has IP address 192.168.10.3 and serves the guest network. It provides limited access to internal resources and isolates guest traffic from the main network.
+
+In addition to the above, our routers support various protocols and are equipped with the latest firmware updates. The models used are all compliant with the latest industry standards. Regular firmware updates are scheduled to ensure they remain secure and efficient.
+
+## Switches Setup
+
+Switches facilitate the internal communication between different devices within the same network segment. The switches in our network have the following IP addresses:
+
+Switch A: 192.168.50.4
+Switch B: 172.16.0.5
+Switch C: 10.0.0.6
+Switch D: 192.168.1.7
+
+Each switch supports multiple VLANs and has been configured for optimal performance and security. They are all managed through a centralized interface for ease of monitoring and maintenance. Monthly performance reviews are conducted to ensure they are functioning properly.
+
+## Wireless Access Points
+
+To ensure seamless wireless connectivity, we have deployed several access points with the following IP addresses:
+
+Access Point 1: 10.0.1.8
+Access Point 2: 192.168.2.9
+Access Point 3: 172.16.1.10
+
+These access points support dual-band connectivity and provide coverage across all floors of the building. They are configured to ensure maximum uptime and minimal interference. Additionally, periodic scans are performed to detect and mitigate any interference from other wireless networks.
+
+## Servers
+
+The backbone of our network is comprised of robust servers. The IP addresses of the servers are as follows:
+
+Server Alpha: 192.168.3.11. This server handles all the authentication requests and manages the domain services.
+
+Server Beta: 172.16.2.12. Dedicated to database management, this server ensures that all our data is stored securely and can be accessed quickly.
+
+Server Gamma: 10.0.2.13. It hosts various internal applications and services used by the staff.
+
+Server Delta: 192.168.4.14. This server is used for backup and disaster recovery purposes. It stores redundant copies of critical data.
+
+Our servers handle various tasks including file storage, application hosting, and database management. They are equipped with high-capacity storage and redundant power supplies to ensure reliability. Backup and disaster recovery plans are in place to protect data integrity.
+
+## Workstations
+
+Our employees use workstations that are assigned the following IP addresses:
+
+Workstation 1: 192.168.5.15. This workstation is used by the network administrator for monitoring and managing the network.
+
+Workstation 2: 172.16.3.16. Assigned to the finance department, this workstation handles all financial transactions and record-keeping.
+
+Workstation 3: 10.0.3.17. Used by the HR department, this workstation manages employee records and recruitment processes.
+
+Workstation 4: 192.168.6.18. This workstation is used for software development and testing purposes.
+
+Workstation 5: 172.16.4.19. Assigned to the marketing department, this workstation handles all promotional and marketing activities.
+
+Each workstation is configured with the necessary software and security measures to protect sensitive data and maintain productivity. Antivirus software is updated regularly to protect against threats.
+
+## Printers
+
+Network printers are essential for daily operations. They are assigned the following IP addresses:
+
+Printer 1: 10.0.4.20. Located in the main office, this printer handles most of the high-volume printing tasks.
+
+Printer 2: 192.168.7.21. This printer is located in the finance department and is used for printing financial reports.
+
+Printer 3: 172.16.5.22. Located in the HR department, this printer is used for printing employee records and recruitment forms.
+
+These printers support high-volume printing and are connected to the network for easy access by all employees. Regular maintenance is performed to ensure they operate smoothly.
+
+## Miscellaneous Devices
+
+Other devices in our network include various IoT devices and management consoles:
+
+Device 1: 192.168.8.23. This device monitors the environmental conditions in the server room.
+
+Device 2: 10.0.5.24. A network management console that provides real-time insights into network performance.
+
+Device 3: 172.16.6.25. Used for controlling the building's access control system.
+
+Device 4: 192.168.9.26. This device manages the building's HVAC system to ensure optimal temperature and air quality.
+
+Device 5: 10.0.6.27. An IoT device that monitors and controls the lighting system in the building.
+
+These devices help in monitoring and managing the overall network infrastructure. They are crucial for maintaining network performance and security.
+
+## Additional Information
+
+Apart from the IP addresses listed, our network includes several security measures such as firewalls, intrusion detection systems, and VPNs to protect against unauthorized access. Regular audits and updates are performed to ensure the network remains secure and efficient.
+
+Network performance is regularly monitored using various tools to detect and resolve issues proactively. This helps in maintaining high availability and reliability of network services.
+
+Please ensure that these IP addresses are correctly assigned and do not conflict with other devices on the network. If there are any discrepancies or issues, report them to the IT department immediately. Proper network documentation and management practices are essential for the smooth operation of our IT infrastructure.
+
+Thank you for your attention to detail in maintaining the integrity of our network.

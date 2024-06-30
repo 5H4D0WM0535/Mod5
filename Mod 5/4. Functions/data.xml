@@ -1,0 +1,20 @@
+<library>
+    <book>
+        <title>Python Programming</title>
+        <author>John Doe</author>
+        <genre>Programming</genre>
+        <year>2020</year>
+    </book>
+    <book>
+        <title>Data Science Essentials</title>
+        <author>Jane Smith</author>
+        <genre>Data Science</genre>
+        <year>2019</year>
+    </book>
+    <book>
+        <title>Web Development Basics</title>
+        <author>David Johnson</author>
+        <genre>Web Development</genre>
+        <year>2021</year>
+    </book>
+</library>

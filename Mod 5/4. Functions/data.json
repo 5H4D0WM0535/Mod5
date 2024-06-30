@@ -1,0 +1,39 @@
+{
+  "countries": [
+    {
+      "name": "United States",
+      "population": 331449281,
+      "capital": "Washington, D.C.",
+      "languages": ["English"]
+    },
+    {
+      "name": "Germany",
+      "population": 83149300,
+      "capital": "Berlin",
+      "languages": ["German"]
+    },
+    {
+      "name": "Japan",
+      "population": 125584838,
+      "capital": "Tokyo",
+      "languages": ["Japanese"]
+    }
+  ],
+  "cities": [
+    {
+      "name": "New York City",
+      "population": 8537673,
+      "country": "United States"
+    },
+    {
+      "name": "Munich",
+      "population": 1484226,
+      "country": "Germany"
+    },
+    {
+      "name": "Kyoto",
+      "population": 1474570,
+      "country": "Japan"
+    }
+  ]
+}
